@@ -7,7 +7,7 @@
 
 - I’m currently working on 
 
-- I’m currently learning **Dart with Flutter**
+- I’m currently learning **C# with .Net**
 <br>
 <div align="center">
   <a href="" >
