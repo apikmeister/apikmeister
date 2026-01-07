@@ -5,9 +5,9 @@
 <!-- <h1 align="center"> Hi, I'm apik! <br> Welcome to my profile! </h1> -->
 <!-- <h3 align="center">A Computer Science Student</h3> -->
 
-- I’m currently working on 
+<!-- - I’m currently working on --> 
 
-- I’m currently learning **C# with .Net**
+<!-- - I’m currently learning --> 
 <br>
 <div align="center">
   <a href="" >
@@ -33,9 +33,6 @@
 </li>
 <li>
 <b>Hobbys:</b> Photography and Videography, Design, Tech Related, Developing
-</li>
-<li>
-<b>Studying @:</b> Universiti Malaysia Terengganu
 </li>
 <br><br><br>
 </div>
